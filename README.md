@@ -1,7 +1,11 @@
+
 <h1 align="center">Hi 👋, I'm NDIAYE Malick Siguy</h1>
-<h3 align="center">A passionate frontend developer from france</h3>
+<h3 align="center">A passionate fullStack developer from france</h3>
+<img align="right" alt="coding" src="https://goprominent.com/uploads/softwareblog_cover-01.png">
 
 - 🌱 I’m currently learning **reactjs**
+
+- 👨‍💻 All of my projects are available at [https://malickportfolio.netlify.app/](https://malickportfolio.netlify.app/)
 
 - 💬 Ask me about **reactjs,reactnative**
 
@@ -9,7 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@malicksiguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@malicksiguy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/msnd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/msnd/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/malickndiaye_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/malickndiaye_/" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://dribbble.com/malicknd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/malicknd" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/malickndiaye6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/malickndiaye6" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@ndiayemalick062" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@ndiayemalick062" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
