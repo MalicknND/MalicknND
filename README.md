@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm NDIAYE Malick Siguy</h1>
 <h3 align="center">A passionate fullStack developer from france</h3>
 <img align="right" alt="coding" src="https://goprominent.com/uploads/softwareblog_cover-01.png">
-<br>
+
+
 - 🌱 I’m currently learning **reactjs**
 
 - 👨‍💻 All of my projects are available at [https://malickportfolio.netlify.app/](https://malickportfolio.netlify.app/)
