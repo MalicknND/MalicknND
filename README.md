@@ -4,7 +4,7 @@
 <img align="right" alt="coding" src="https://goprominent.com/uploads/softwareblog_cover-01.png">
 <br/>
 
-- 🌱 I’m currently learning **reactjs**
+- 🌱 I’m currently learning **ReactJs et NextJs**
 
 - 👨‍💻 All of my projects are available at [https://malickportfolio.netlify.app/](https://malickportfolio.netlify.app/)
 
