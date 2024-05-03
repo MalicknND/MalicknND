@@ -1,6 +1,8 @@
+<!--
 <div align="center">
   <img height="400" width="5000" src="https://camo.githubusercontent.com/d8ef4327ce7675587de2e449fe3254b103dc0d3ff641dc0d3a1ab8549122360f/68747470733a2f2f676f70726f6d696e656e742e636f6d2f75706c6f6164732f736f667477617265626c6f675f636f7665722d30312e706e67"  />
 </div>
+-->
 
 ###
 
